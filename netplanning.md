@@ -1,7 +1,7 @@
----
+```
+layout: page
 title: Network Planning
-weight: 60
----
+```
 
 ## Gateway and nodes site selection considerations
 
