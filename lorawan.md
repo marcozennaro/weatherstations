@@ -1,8 +1,3 @@
----
-layout: page
-title: lorawan
----
-
 ## What is LoRaWAN?
 
 
