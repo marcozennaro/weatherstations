@@ -1,6 +1,6 @@
 layout: page
 title: "Basic Radio Propagation"
-permalink: https://marcozennaro.github.io/weatherstations/radiopropagation
+permalink: https://marcozennaro.github.io/weatherstations/radiopropagation/
 
 ## Basics of radio propagation
 
