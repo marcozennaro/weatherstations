@@ -1,12 +1,12 @@
 ---
-title: LoRaWAN
-weight: 50
+layout: page
+title: What is LoRaWAN
 ---
 
 ## What is LoRaWAN?
 
 
-![LoRaWAN](/en/Documentation/basics/images/lorawan.jpg?width=100%)
+![LoRaWAN](images/lorawan.jpg?width=100%)
 
 LoRaWAN is a communication protocol designed for long distance and low
 power consumption. To meet these goals it sacrifices transmission speed,
@@ -41,7 +41,7 @@ browser.
 
 The generic layout of a LoRaWAN network is the following:
 
-![](/en/Documentation/basics/images/img_lorawan/media/image1.png)
+![](images/img_lorawan/media/image1.png)
 
 The connection between the Gateways and the Network Server can be by
 means of an Ethernet Cable, Cellular service (2 G, 3G or 4G) WiFi or
@@ -89,7 +89,7 @@ payload is decoded. The data is also sent to the Allmeteo server which
 makes it available as a web page to any authorized user as seen in the
 following image:
 
-![](/en/Documentation/basics/images/img_lorawan/media/image2.png)
+![](images/img_lorawan/media/image2.png)
 
 Note that the TTN network server in Europe is handling traffic from a
 great number of gateways, but it cannot read the payload that it is
