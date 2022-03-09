@@ -1,7 +1,3 @@
----
-layout: page
-title: "Basic Radio Propagation"
----
 ## Basics of radio propagation
 
 Any kind of information can be transmitted using radio waves. The
@@ -27,7 +23,7 @@ establish indirect paths. Changes of direction of the wave (bending) can
 also occur due inhomogeneities in the atmosphere. These effects are
 strongly dependent on the frequency of the wave.
 
-![](/en/Documentation/basics/images/img_basics_of_radio_propagation/media/image1.png)
+![](images/img_basics_of_radio_propagation/media/image1.png)
 
 The amount of absorption or attenuation undergone by the signal while
 traversing an object depends on the frequency, the type of obstacle and
@@ -38,7 +34,7 @@ As a real life example, consider a transmitter in a mast on the top of
 the building shown in the picture, fitted with an omnidirectional
 antenna that sends about the same amount of power in every direction:
 
-![](/en/Documentation/basics/images/img_basics_of_radio_propagation/media/image2.png)
+![](images/img_basics_of_radio_propagation/media/image2.png)
 
 The signal with a power of 13 dBm (20 mW) at the frequency of 868 MHz,
 was received by four different stations at the same time.
