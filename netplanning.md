@@ -1,8 +1,3 @@
-```
-layout: page
-title: Network Planning
-```
-
 ## Gateway and nodes site selection considerations
 
 The site selection must consider several factors, some of which might be
