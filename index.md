@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/marcozennaro/weatherstatio
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+This is the LoRaWAN [lorawan.en.md]
+
+Prova uno due tre!
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
