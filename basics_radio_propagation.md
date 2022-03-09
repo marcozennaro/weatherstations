@@ -1,7 +1,7 @@
+---
 layout: page
 title: "Basic Radio Propagation"
-permalink: https://marcozennaro.github.io/weatherstations/radiopropagation/
-
+---
 ## Basics of radio propagation
 
 Any kind of information can be transmitted using radio waves. The
