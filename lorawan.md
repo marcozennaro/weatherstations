@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is LoRaWAN
+title: lorawan
 ---
 
 ## What is LoRaWAN?
