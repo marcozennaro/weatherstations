@@ -1,3 +1,8 @@
+```
+layout: page
+title: Basics of Radio Propagation
+```
+
 ## Basics of radio propagation
 
 Any kind of information can be transmitted using radio waves. The
