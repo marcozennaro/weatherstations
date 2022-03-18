@@ -9,7 +9,7 @@ weight: 150
 A simple photovoltaic system comprises three building blocks as shown in
 the following figure:
 
-![](/en/Documentation/basics/PhotovoltaicPower/images/img_introduction_to_photovoltaic_powering/media/image1.png)
+![](images/img_introduction_to_photovoltaic_powering/media/image1.png)
 
 The solar panel is composed of a number of solar cells that convert the
 sunlight into electricity. The amount of electricity produced is
@@ -46,7 +46,7 @@ increases.
 For optimum panel inclination and insolation details visit
 [https://globalsolaratlas.info/map](https://globalsolaratlas.info/map)
 
-![](/en/Documentation/basics/PhotovoltaicPower/images/img_introduction_to_photovoltaic_powering/media/image2.png)
+![](images/img_introduction_to_photovoltaic_powering/media/image2.png)
 
 In this example, we find that for Zomba, in Malawi, at a latitude of
 15.39 degrees, the optimum inclination is 17 degrees, pointing North.
@@ -59,5 +59,3 @@ Developing World\" book accessible at:
 Automotive type batteries are not optimized for photovoltaic
 applications. Nowadays the preferred batteries for both sensors and
 gateways are based on Lithium.
-
-2021/04/11
