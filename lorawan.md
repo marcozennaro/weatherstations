@@ -4,8 +4,6 @@
 
 ![LoRaWAN](images/img\_lorawan/lorawan.jpg)
 
-![](images/img\_lorawan/lorawan.jpg)
-
 LoRaWAN is a communication protocol designed for long distance and low power consumption. To meet these goals it sacrifices transmission speed, so it is not good for video or high speed data, but it is well suited for infrequent and short messages, like meteorological data.
 
 The modulation technique employed is adaptive, meaning that the same information can be sent in a short time to nearby nodes, while a longer transmission time needs to be allocated to reach far away nodes, or traverse heavily wooded areas that will absorb part of the signal.
