@@ -1,7 +1,9 @@
 ## What is LoRaWAN?
 
 
-![LoRaWAN](images/lorawan.jpg?width=100%)
+![LoRaWAN](images/img_lorawan/lorawan.jpg?width=100%)
+
+
 
 LoRaWAN is a communication protocol designed for long distance and low
 power consumption. To meet these goals it sacrifices transmission speed,
