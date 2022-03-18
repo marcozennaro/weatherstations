@@ -1,5 +1,8 @@
 # Table of contents
 
+
+## Introduction to LoRaWAN
+
 * [Basics of radio propagation](README.md)
 * [What is LoRaWAN?](lorawan.md)
 * [Gateway and nodes site selection considerations](netplanning.md)
