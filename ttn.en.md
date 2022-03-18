@@ -5,7 +5,7 @@ weight: 70
 
 # The Things Network (TTN)
 
-![TTN](en/Documentation/basics/images/ttn.jpg)
+![TTN](images/ttn.jpg)
 
 [https://www.thethingsnetwork.org/](https://www.thethingsnetwork.org) is a global open LoRaWAN network that allows the use of the required network and application servers at no cost for the user.
 
@@ -13,7 +13,7 @@ Publicly available LoRaWAN gateways have been installed in many places as part o
 
 Alternatively, If no TTN gateway is available in the area of interest, one can resort to install a LoRaWAN gateway, which must be provided with Internet connectivity (by cabled Ethernet, WiFi or Cellular) and powered by the electrical grid or a photovoltaic system. A number of LoRaWAN gateways are commercially available with prices starting at about 200 Euro. In this case the Network and Application servers provided by TTN can still be leveraged, since they are reachable through the Internet from any Internet connected gateway.
 
-![](en/Documentation/basics/images/img\_ttn/media/image1.png)
+![](images/img_ttn/media/image1.png)
 
 In this example we have a basic meteorological station, another equipped also with a rain gauge, and an independent wind speed and direction sensor, each equipped with a LoRaWAN transceiver that conveys the gathered data to the Internet connected LoRaWAN gateway.
 
@@ -24,5 +24,3 @@ Adding another LoRaWAN sensor involves simply writing a new application that wil
 LoRaWAN uses unlicensed frequencies, which are subject to interference from other users, and restricted in the amount of time that each device can occupy a channel, but these limitations do not impede the delivery of most services, as witnessed by the widely deployed WiFi networks, which also use unlicensed frequencies
 
 Cellular operators have exclusive access to the frequencies they use, for which they have paid hefty sums, and are protected from interference from other users.
-
-End of file
