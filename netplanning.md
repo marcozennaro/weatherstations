@@ -41,5 +41,5 @@ uncertainty.
 [OpenStreetMap](https://www.openstreetmap.org/) is a good alternative to
 Google maps, which leverages inputs from users.
 
-![](/en/Documentation/basics/images/img_gateway_and_nodes_site_selection_considerations/media/image1.png)
+![](images/img_gateway_and_nodes_site_selection_considerations/media/image1.png)
 
