@@ -17,8 +17,6 @@
 
 ## RAK Gateway 
 
-
 * [RAK Gateway Installation: SIM Card](Installation/cellular_sim.md)
 * [RAK Gateway Installation: electrical](Installation/rak_gateway_electrical_installation.md)
 * [RAK Gateway Installation: hardware assembly](Installation/rak_gateway_hardware_assembly.md)
-
