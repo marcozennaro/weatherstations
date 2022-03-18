@@ -25,7 +25,7 @@ for details.
 
 The following picture is an example of pole installation:
 
-![](/en/Documentation/Installation/images/img_meteorain_200_compact/media/image1.png)
+![](images/img_meteorain_200_compact/media/image1.png)
 
 Insert the cable from the meteo station through the hole at the bottom
 of the rain gauge. Put a cable tie around it to prevent accidental pull
@@ -42,7 +42,7 @@ pole or where vibrations
 are expected, drip a drop of superglue on each wire terminal to prevent
 the wire connection screws from loosening over time.
 
-![](/en/Documentation/Installation/images/img_meteorain_200_compact/media/image2.png)
+![](images/img_meteorain_200_compact/media/image2.png)
 
 Loosen the two screws at the bottom of the funnel so that it can be
 inserted in the rain gauge cup by horizontally twisting it until it
@@ -53,7 +53,7 @@ the funnel. This can be removed to facilitate cleaning.
 
 The resolution of the rain gauge is 0.2 mm.
 
-![](/en/Documentation/Installation/images/img_meteorain_200_compact/media/image3.png)
+![](images/img_meteorain_200_compact/media/image3.png)
 
 **Calibration Procedure**
 
@@ -69,6 +69,5 @@ The resolution of the rain gauge is 0.2 mm.
 
 6.  Repeat the procedure until both buckets tip with exactly 4 ml of water.
 
-![](/en/Documentation/Installation/images/img_meteorain_200_compact/media/image4.png)
+![](images/img_meteorain_200_compact/media/image4.png)
 
-Last update 2021/04/20.
