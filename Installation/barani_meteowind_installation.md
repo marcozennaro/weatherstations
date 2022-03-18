@@ -6,13 +6,13 @@ weight: 140
 
 ## MeteoWind IoT Pro: Wind speed and direction sensor
 
-![](/en/Documentation/Installation/images/meteowind01.png)
+![](images/meteowind01.png)
 
 The MeteoWind Pro wireless anemometer & wind vane is composed of the two
 wind sensors and an electronic module containing a photovoltaic panel,
 battery and LoRaWAN radio, connected with a cable.
 
-![](/en/Documentation/Installation/images/img_barani_meteowind_installation/media/image2.png)
+![](images/img_barani_meteowind_installation/media/image2.png)
 
 Care should be taken to minimize shade over the solar panel that would
 reduce its efficiency.
@@ -36,17 +36,16 @@ Turn on the switch. A red LED will lit. Put back the bottom of the box
 taking care that the green wire (the antenna) is in a vertical position.
 Tighten the plastic bolts.
 
-![](/en/Documentation/Installation/images/img_barani_meteowind_installation/media/image1.png)
+![](images/img_barani_meteowind_installation/media/image1.png)
 
 Pointing an Internet browser to
 [https://weather.allmeteo.com](https://weather.allmeteo.com) and
 entering your credentials you should be able to see the data:
 
-![](/en/Documentation/Installation/images/img_barani_meteowind_installation/media/image3.png)
+![](images/img_barani_meteowind_installation/media/image3.png)
 
 
 ### Additional installation details
 
 [MeteoWind IoT Pro Datasheet](https://barani.squarespace.com/s/MeteoWind-IoT-Pro-DataSheet.pdf)
 
-Last updated 2021/04/23

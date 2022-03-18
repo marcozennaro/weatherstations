@@ -15,7 +15,7 @@ Viewable data: UL/DL - Channels - RSSI/SNR/
 
 PER - GPS - Temperature
 
-![](/en/Documentation/Installation/testing/images/img_coverage_testing_with_adeunis/media/image3.png)
+![](images/img_coverage_testing_with_adeunis/media/image3.png)
 
 Turn ON the device using the sliding switch next to the LED. It will
 show the temperature and device version for a few seconds, then it will
@@ -53,7 +53,7 @@ PER = 1 - DL_COUNT / UL_COUNT
 
 PER (%) = 100 - (( DL_COUNT / UL_COUNT) \* 100)
 
-![](/en/Documentation/Installation/testing/images/img_coverage_testing_with_adeunis/media/image1.png)
+![](images/img_coverage_testing_with_adeunis/media/image1.png)
 
 The lower the PER, the stronger the link, which is usually associated
 with a greater value of SNR, however sometimes a strong signal might not
@@ -68,6 +68,4 @@ dBm = 10\*log~10~ (P/1mW) dB = 10\*log~10~ (P2/P1)
 
 And [here](https://www.internetsociety.org/wp-content/uploads/2017/10/dB-Math.pdf) a presentation about dB and dBm
 
-Last update 2021/04/12
-
-![](/en/Documentation/Installation/testing/images/img_coverage_testing_with_adeunis/media/image2.png)
+![](images/img_coverage_testing_with_adeunis/media/image2.png)

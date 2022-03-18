@@ -19,7 +19,7 @@ also transmit rain data in the same message.
 The helical radiation shield reduces the impact of the sun in the
 temperature readings.
 
-![](/en/Documentation/Installation/images/img_barani_meteo_helix_installation/media/image5.png)
+![](images/img_barani_meteo_helix_installation/media/image5.png)
 
 The meteo station can be installed in a mast or attached to a building
 side using the provided standoff.
@@ -29,7 +29,7 @@ plastic tube containing the magnet inside the helix until you see a
 green LED flashing every 5 seconds. Remove the magnet and proceed to the
 installation.
 
-![](/en/Documentation/Installation/images/img_barani_meteo_helix_installation/media/image6.png)
+![](images/img_barani_meteo_helix_installation/media/image6.png)
 
 The same magnet can be used to turn the station off, for instance to
 prevent the discharge of the battery when transporting the station to a
@@ -39,7 +39,7 @@ Since the station has already been configured, you can verify that it is
 transmitting by visiting the allmeteo page at
 [https://weather.allmeteo.com](https://weather.allmeteo.com)
 
-![](/en/Documentation/Installation/images/img_barani_meteo_helix_installation/media/image1.png)
+![](images/img_barani_meteo_helix_installation/media/image1.png)
 
 Use your own credentials. It will take a few minutes for the system to
 respond.
@@ -51,7 +51,7 @@ station.
 
 Insert the standoff in the three exposed bolts.
 
-![](/en/Documentation/Installation/images/img_barani_meteo_helix_installation/media/image4.png)
+![](images/img_barani_meteo_helix_installation/media/image4.png)
 
 Put back the flat washer first, then the slotted washer and the nut in
 each bolt. Tighten the nuts.
@@ -59,15 +59,14 @@ each bolt. Tighten the nuts.
 The standoff can be fixed to a mast using U bolts of the proper size or
 metallic hose clamps:
 
-![](/en/Documentation/Installation/images/img_barani_meteo_helix_installation/media/image2.png)
+![](images/img_barani_meteo_helix_installation/media/image2.png)
 
 Alternatively the standoff can be attached to a flat structure, like the
 side of a building, using screws or bolts.
 
-![](/en/Documentation/Installation/images/img_barani_meteo_helix_installation/media/image3.png)
+![](images/img_barani_meteo_helix_installation/media/image3.png)
 
 ### Additional installation details
 
 [MeteoHelix Quick Start Guide](https://www.baranidesign.com/s/MeteoHelix-IoT-Pro-allMeteo-Portal-Quick-Guide.pdf)
 
-Last update 2021/04/23
