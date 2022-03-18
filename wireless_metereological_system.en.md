@@ -20,7 +20,7 @@ can also be powered by a suitable photovoltaic system
 
 ## System diagram
 
-![](/en/Documentation/basics/images/img_wireless_metereological_system/media/image1.png)
+![](images/img_wireless_metereological_system/media/image1.png)
 
 The weather station has built in temperature, pressure, humidity and
 irradiation sensors inside an helicoidal radiation shield that provides
@@ -41,5 +41,3 @@ fitted device (smart phone, laptop, etc.).
 The gateway also transmits configuration commands originating from the
 LoRaWAN network server to the end node to change the operating frequency
 and spreading factors and therefore the packet duration.
-
-End of file.
