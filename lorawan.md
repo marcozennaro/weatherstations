@@ -1,7 +1,7 @@
 ## What is LoRaWAN?
 
 
-![LoRaWAN](images/img_lorawan/lorawan.jpg?width=100%)
+![](images/img_lorawan/lorawan.jpg?width=100%)
 
 
 
